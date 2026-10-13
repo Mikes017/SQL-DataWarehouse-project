@@ -1,0 +1,30 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*~
+
+# Configuración local y secretos (contraseñas de SQL Server, etc.)
+.env
+*.env
+
+# Archivos de SQL Server
+*.mdf
+*.ldf
+*.ndf
+*.bak
+
+# Temporales y logs
+*.log
+*.tmp
+
+# Respaldos automáticos de draw.io
+*.drawio.bkp
+.$*.drawio.bkp
+.$*.drawio.dtmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Nota: a diferencia del proyecto original, NO se ignoran *.csv ni *.png,
+# porque los datasets y los diagramas exportados forman parte del repo.
