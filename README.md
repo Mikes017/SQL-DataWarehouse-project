@@ -42,3 +42,8 @@ tests/          Pruebas de calidad de datos
 
 - [Tareas y convenciones de nombres](docs/tareas_y_convenciones.md)
 - [Catálogo de datos (Gold)](docs/data_catalog.md)
+
+## Integrantes
+
+- García Rangel Miguel Angel
+- Pérez Aguiar Oropeza Gabriel Emiliano
